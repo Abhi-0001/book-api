@@ -1,0 +1,1 @@
+{"version":3,"file":"books.controller.js","sourceRoot":"","sources":["../../src/controllers/books.controller.ts"],"names":[],"mappings":";;;;;;;;;;;AAKA,4BAQC;AAZD,2CAA8C;AAE9C,MAAM,MAAM,GAAG,IAAI,qBAAY,EAAE,CAAC;AAElC,SAAsB,QAAQ,CAC5B,GAAY,EACZ,GAAa,EACb,IAAkB;;QAElB,MAAM,KAAK,GAAG,MAAM,MAAM,CAAC,KAAK,CAAC,QAAQ,EAAE,CAAC;QAE5C,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC;IACrB,CAAC;CAAA"}
